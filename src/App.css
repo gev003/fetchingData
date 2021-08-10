@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+input {
+  appearance: none;
+  outline: none;
+  padding: 10px 25px;
+  border: solid 1px #009879;
+  margin-top: 20px;
+}
