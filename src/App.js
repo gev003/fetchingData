@@ -8,6 +8,8 @@ function App() {
   const [data, setData] = useState('');
   const [info, setInfo] = useState();
 
+
+  
   // useEffect(() => {
   //   if(data.length == 2) {
   //    const interval = setTimeout(() => {
