@@ -5,7 +5,7 @@ import TableCell from './TableCell';
 
 function App() {
 
-  const [data, setData] = useState('');
+  const [data, setData] =   useState('');
   const [info, setInfo] = useState()
 
   useEffect(() => {
